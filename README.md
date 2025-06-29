@@ -1,1 +1,1 @@
-# temperature-app
+# simple temperature-app
